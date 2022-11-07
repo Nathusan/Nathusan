@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning currently learning React and Typescript 
 - 💞️ I’m looking to collaborate on new excitting projects
 - 📫 How to reach me 
-  @Nithu_97 on instagram :)
+  @Nithu_97 on instagram :) or nithusan97@gmail.com
 
 <!---
 Nathusan/Nathusan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
