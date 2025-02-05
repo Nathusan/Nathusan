@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nathusan
+- 👋 Hi, I’m @Nathusan also known as Nith, Niff and Nithu 
 - 👀 I’m interested in everything web and games 
 - 🌱 I’m currently learning currently learning React and Typescript 
 - 💞️ I’m looking to collaborate on new excitting projects
